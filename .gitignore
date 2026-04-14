@@ -4,6 +4,8 @@ AGENTS.md
 
 # CVD companion notebooks (reference only, not part of this project)
 notebooks_cvd/
+Paper/
+research/
 
 # macOS
 .DS_Store
@@ -16,6 +18,7 @@ data/demographics_final/
 data/outputs/
 data/weather/
 data/livestock/
+
 
 # Keep the data directory structure visible
 !data/.gitkeep
